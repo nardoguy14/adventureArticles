@@ -30,9 +30,10 @@ div {
 }
 
 .overlay {
-    left:50%;
-    top:50%;
     position: absolute;
+    top:50%;
+    width:100%;
+    text-align:center;
     color: white;
 }
 
@@ -64,4 +65,8 @@ div {
     400 {
         left: 30%;
     }
+}
+
+p {
+    font-family: "Times New Roman", Times, serif;
 }
