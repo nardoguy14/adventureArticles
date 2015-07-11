@@ -2,6 +2,14 @@ div {
     overflow: hidden;
 }
 
+.textContent {
+    padding-left:   20px;
+    padding-right:  20px;
+    padding-top:    20px;
+    padding-bottom: 20px;
+    text-align:center;
+}
+
 .row.no-gutters > [class^="col-"],
 .row.no-gutters > [class*=" col-"] {
    padding-right: 0;
@@ -42,11 +50,11 @@ div {
 }
 
 @-skrollr-keyframes zoomAnimation {
-    100 {
+    top {
         transform:scale(1);
     }
 
-    400 {
+    bottom {
         transform:scale(1.5);
     }
 }
