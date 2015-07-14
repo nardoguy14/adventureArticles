@@ -45,36 +45,7 @@ div {
     color: white;
 }
 
-#zoom {
-    -skrollr-animation-name:zoomAnimation;
-}
-
-@-skrollr-keyframes zoomAnimation {
-    top {
-        transform:scale(1);
-    }
-
-    bottom {
-        transform:scale(1.5);
-    }
-}
-
-#moveLeft {
-    -skrollr-animation-name:moveLeftAnimation;
-}
-
-@-skrollr-keyframes moveLeftAnimation {
-    100 {
-        transform:scaleX(2);
-        left: 0%;
-
-    }
-
-    400 {
-        left: 30%;
-    }
-}
-
 p {
     font-family: "Times New Roman", Times, serif;
+    margin: 0;
 }
