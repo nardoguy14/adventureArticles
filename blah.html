@@ -10,16 +10,14 @@
     <script type="text/javascript" src="./skrollr.js"></script>
     <script type="text/javascript">
 
-    $( document ).ready(function() {
-      var s = skrollr.init();
-
-    });
+    $(window).load(function($){ var s = skrollr.init(); });
     </script>
 
   </head>
 
   <body>
     <div class="container-fluid">
+      <div style="transform: translate3d(0,0,0);"></div>
 
       <div class="row no-gutters">
         <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
