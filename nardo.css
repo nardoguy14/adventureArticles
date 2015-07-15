@@ -1,12 +1,14 @@
-@media only screen and (min-device-width: 768px) and (max-device-width: 1024px){
-    p {
-        font-size:300px;
-    }
+video {
+    vertical-align: middle;
 }
-
 
 div {
     overflow: hidden;
+}
+
+p {
+    font-family: "Times New Roman", Times, serif;
+    margin: 0;
 }
 
 .textContent {
@@ -50,9 +52,4 @@ div {
     width:100%;
     text-align:center;
     color: white;
-}
-
-p {
-    font-family: "Times New Roman", Times, serif;
-    margin: 0;
 }
