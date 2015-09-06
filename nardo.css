@@ -57,3 +57,9 @@ p {
 .fb-comments, .fb-comments iframe[style], .fb-comments span {
    width: 100% !important;
 }
+
+.link {
+    transition: all 1.5s ease-in-out; 
+}
+.link:hover { transform: scale(1.5); }
+
