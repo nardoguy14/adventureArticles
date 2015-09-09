@@ -79,7 +79,7 @@
 
       <div class="row no-gutters">
         <div id ="" class="col-lg-6 col-md-6 col-sm-6 col-xs-6">
-          <img  data-bottom-top="transform:scale(1.5);" data-top-bottom="transform:scale(1);" class="longImage" src="./washingtonSet/17.jpg" />
+          <div  my-widget  topskrollr= "transform:scale(1.5);" bottomskrollr = 'transform:scale(1);' imgClass="longImage" file="./washingtonSet/17.jpg" /></div>
         </div>
         <div class="col-lg-6 col-md-6 col-sm-6 col-xs-6">
           <div my-widget file="./washingtonSet/12.jpg" imgClass ="longImage"/></div>
@@ -142,7 +142,7 @@
 
       <div class="row no-gutters">
         <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
-          <img data-bottom-top="transform:scale(1);" data-top-bottom="transform:scale(1.5);" class="longImage" src="./washingtonSet/50.jpg" />
+          <div  my-widget  topskrollr= "transform:scale(1);" bottomskrollr = 'transform:scale(1.5);' imgClass="longImage" file="./washingtonSet/50.jpg" /></div>
         </div>
       </div>
 
@@ -213,7 +213,7 @@
 
       <div class="row no-gutters">
         <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
-        <img data-bottom-top="transform:scale(1);" data-top-bottom="transform:scale(1.5);" class="longImage" src="./washingtonSet/85.jpg" />
+          <div  my-widget  topskrollr= "transform:scale(1);" bottomskrollr = 'transform:scale(1.5);' imgClass="longImage" file="./washingtonSet/85.jpg" /></div>
         </div>
       </div>
 
@@ -316,8 +316,8 @@
           replace: true,
           template: 
             " <div> "+
-            "   <img   ng-if=\"isMobile\" class=\"{{imgclass}}\" ng-src=\"{{small}}\" />   "+
-            "   <img  ng-if=\"!isMobile\" class=\"{{imgclass}}\" ng-src=\"{{source}}\" />  "+ 
+            "   <img data-bottom-top='{{topskrollr}}' data-top-bottom='{{bottomskrollr}}' ng-if=\"isMobile\" class=\"{{imgclass}}\" ng-src=\"{{small}}\" />    "+
+            "   <img data-bottom-top='{{topskrollr}}' data-top-bottom='{{bottomskrollr}}' ng-if=\"!isMobile\" class=\"{{imgclass}}\" ng-src=\"{{source}}\" />  "+ 
             " </div>   ",
           link: function(scope, element, attributes) {
 
@@ -393,6 +393,11 @@
 
             scope.small = smallSource.any()
             scope.imgclass =  attributes.imgclass;
+            scope.topskrollr = attributes.topskrollr;
+            scope.bottomskrollr = attributes.bottomskrollr;
+
+
+
 
           }
         };
