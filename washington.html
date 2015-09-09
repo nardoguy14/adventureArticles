@@ -110,7 +110,7 @@
 
       <div class="row no-gutters">
         <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
-          <img class="longImage" src="./washingtonSet/girl.gif" />
+          <div my-widget file="./washingtonSet/girl.gif" imgClass ="longImage"/></div>
         </div>
       </div>
 
@@ -126,7 +126,7 @@
 
       <div class="row no-gutters">
         <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
-          <img class="longImage" src="./washingtonSet/guy.gif" />
+          <div my-widget file="./washingtonSet/guy.gif" imgClass ="longImage"/></div>
         </div>
       </div>
 
@@ -379,8 +379,15 @@
                 else
                   return null
               },
+              gif: function() {
+                var indexNum = index( attributes.file.indexOf("gif"))
+                if(indexNum != null)
+                  return attributes.file.substring(0, indexNum) + "_xs.gif"
+                else
+                  return null
+              },
               any: function() {
-                return ( smallSource.png() || smallSource.jpg() || smallSource.jpeg() )
+                return ( smallSource.png() || smallSource.jpg() || smallSource.jpeg() || smallSource.gif())
               }
             };
 
