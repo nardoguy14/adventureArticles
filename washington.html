@@ -23,11 +23,15 @@
       ga('send', 'pageview');
     </script>
 
+    <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.4.5/angular.min.js"></script>
+    
+
+  
 
 
   </head>
 
-  <body>
+  <body ng-app='PlatformApp'>
     <div id="fb-root"></div>
     <script>(function(d, s, id) {
       var js, fjs = d.getElementsByTagName(s)[0];
@@ -37,12 +41,11 @@
       fjs.parentNode.insertBefore(js, fjs);
       }(document, 'script', 'facebook-jssdk'));</script>
 
-    <div id = "skrollr-body" class="container-fluid">
-      <div style="transform: translate3d(0,0,0);"></div>
+    <div id = "skrollr-body" class="container-fluid" ng-controller = 'PlatformCtrl'>
 
       <div class="row no-gutters">
         <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
-          <img class="longImage" src="./washingtonSet/2.jpg" />
+          <div my-widget file="./washingtonSet/2.jpg" imgClass ="longImage"/></div>
           <p class="overlay" style="color:#FFFFFF;font-weight:regular;font-family:times new roman,serif; font-size:4vw;" > Ice Caves in the Northern Cascades </p>
           <p class="overlay" style="top:70%; font-weight:regular;font-family:times new roman,serif;color:#FFFFFF;line-height:40px; font-size:2vw;"> Photography: Nardo + Amy </p>
         </div>
@@ -62,13 +65,13 @@
 
       <div class="row no-gutters">
         <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
-          <img class="longImage" src="./washingtonSet/7.jpg" />
+          <div my-widget file="./washingtonSet/7.jpg" imgClass ="longImage"/></div>
         </div>
       </div>
 
       <div class="row no-gutters">
         <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
-          <img class="longImage" src="./washingtonSet/8.jpg" />
+          <div my-widget file="./washingtonSet/8.jpg" imgClass ="longImage"/></div>
         </div>
       </div>
 
@@ -79,7 +82,7 @@
           <img  data-bottom-top="transform:scale(1.5);" data-top-bottom="transform:scale(1);" class="longImage" src="./washingtonSet/17.jpg" />
         </div>
         <div class="col-lg-6 col-md-6 col-sm-6 col-xs-6">
-          <img id="" class="longImage" src="./washingtonSet/12.jpg" />
+          <div my-widget file="./washingtonSet/12.jpg" imgClass ="longImage"/></div>
         </div>
       </div>
 
@@ -87,19 +90,19 @@
 
       <div class="row no-gutters">
         <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
-          <img class="longImage" src="./washingtonSet/19.jpg" />
+          <div my-widget file="./washingtonSet/19.jpg" imgClass ="longImage"/></div>
         </div>
       </div>
 
       <div class="row no-gutters">
         <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
-          <img class="longImage" src="./washingtonSet/28.jpg" />
+          <div my-widget file="./washingtonSet/28.jpg" imgClass ="longImage"/></div>
         </div>
       </div>
 
       <div class="row no-gutters">
         <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
-          <img class="longImage" src="./washingtonSet/26.jpg" />
+          <div my-widget file="./washingtonSet/26.jpg" imgClass ="longImage"/></div>
         </div>
       </div>
 
@@ -115,7 +118,7 @@
 
       <div class="row no-gutters">
         <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
-          <img class="longImage" src="./washingtonSet/36.jpg" />    
+          <div my-widget file="./washingtonSet/36.jpg" imgClass ="longImage"/></div>   
         </div>
       </div>
 
@@ -131,7 +134,7 @@
 
       <div class="row no-gutters">
         <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
-          <img class="longImage" src="./washingtonSet/37.jpg" />
+          <div my-widget file="./washingtonSet/37.jpg" imgClass ="longImage"/></div>
         </div>
       </div>
 
@@ -147,13 +150,13 @@
 
       <div class="row no-gutters">
         <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
-          <img class="longImage" src="./washingtonSet/58.jpg" />
+          <div my-widget file="./washingtonSet/58.jpg" imgClass ="longImage"/></div>
         </div>
       </div>
 
       <div class="row no-gutters">
         <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
-          <img class="longImage" src="./washingtonSet/69.jpg" />
+          <div my-widget file="./washingtonSet/69.jpg" imgClass ="longImage"/></div>
         </div>
       </div>
 
@@ -162,49 +165,49 @@
 
       <div class="row squarePictures">
         <div class="col-lg-6 col-md-6 col-sm-6 col-xs-6 squaresLeft">
-          <img class="longImage" src="./washingtonSet/16.jpg" />
+          <div my-widget file="./washingtonSet/16.jpg" imgClass ="longImage"/></div>
         </div>
         <div class="col-lg-6 col-md-6 col-sm-6 col-xs-6 squaresRight">
-          <img class="longImage" src="./washingtonSet/67.jpg" />
+          <div my-widget file="./washingtonSet/67.jpg" imgClass ="longImage"/></div>
         </div>
       </div>
 
       <div class="row no-gutters">
         <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
-          <img class="longImage" src="./washingtonSet/79.jpg" />
+          <div my-widget file="./washingtonSet/79.jpg" imgClass ="longImage"/></div>
         </div>
       </div>
 
       <div class="row squarePictures">
         <div class="col-lg-6 col-md-6 col-sm-6 col-xs-6 squaresLeft">
-          <img class="longImage" src="./washingtonSet/75.jpg" />
+        <div my-widget file="./washingtonSet/75.jpg" imgClass ="longImage"/></div>
         </div>
         <div class="col-lg-6 col-md-6 col-sm-6 col-xs-6 squaresRight">
-          <img class="longImage" src="./washingtonSet/77.jpg" />
+          <div my-widget file="./washingtonSet/77.jpg" imgClass ="longImage"/></div>
         </div>
       </div>
 
       <div class="row no-gutters">
         <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
-          <img class="longImage" src="./washingtonSet/80.jpg" />
+          <div my-widget file="./washingtonSet/80.jpg" imgClass ="longImage"/></div>
         </div>
       </div>
 
       <div class="row no-gutters">
         <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
-          <img class="longImage" src="./washingtonSet/84.jpg" />
+          <div my-widget file="./washingtonSet/84.jpg" imgClass ="longImage"/></div>
         </div>
       </div>
 
       <div class="row no-gutters">
         <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
-          <img class="longImage" src="./washingtonSet/81.jpg" />
+          <div my-widget file="./washingtonSet/81.jpg" imgClass ="longImage"/></div>
         </div>
       </div>
 
       <div class="row no-gutters">
         <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
-          <img class="longImage" src="./washingtonSet/83.jpg" />
+          <div my-widget file="./washingtonSet/83.jpg" imgClass ="longImage"/></div>
         </div>
       </div>
 
@@ -216,7 +219,7 @@
 
       <div class="row no-gutters">
         <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
-          <img class="longImage" src="./washingtonSet/87.jpg" />
+          <div my-widget file="./washingtonSet/87.jpg" imgClass ="longImage"/></div>
         </div>
       </div>
 
@@ -230,13 +233,13 @@
 
       <div class="row no-gutters">
         <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
-          <img class="longImage" src="./washingtonSet/90.jpg" />
+          <div my-widget file="./washingtonSet/90.jpg" imgClass ="longImage"/></div>
         </div>
       </div>
 
       <div class="row no-gutters">
         <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
-          <img class="longImage" src="./washingtonSet/92.jpg" />
+          <div my-widget file="./washingtonSet/92.jpg" imgClass ="longImage"/></div>
         </div>
       </div>
 
@@ -244,7 +247,7 @@
 
       <div class="row no-gutters">
         <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
-          <img class="longImage" src="./washingtonSet/101.jpg" />
+          <div my-widget file="./washingtonSet/101.jpg" imgClass ="longImage"/></div>
         </div>
       </div>
 
@@ -252,31 +255,31 @@
 
       <div class="row no-gutters">
         <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
-          <img class="longImage" src="./washingtonSet/102.jpg" />
+          <div my-widget file="./washingtonSet/102.jpg" imgClass ="longImage"/></div>
         </div>
       </div>
 
       <div class="row squarePictures">
         <div class="col-lg-6 col-md-6 col-sm-6 col-xs-6 squaresLeft">
-          <img class="longImage" src="./washingtonSet/104.jpg" />
+          <div my-widget file="./washingtonSet/104.jpg" imgClass ="longImage"/></div>
         </div>
         <div class="col-lg-6 col-md-6 col-sm-6 col-xs-6 squaresRight">
-          <img class="longImage" src="./washingtonSet/105.jpg" />
+          <div my-widget file="./washingtonSet/105.jpg" imgClass ="longImage"/></div>
         </div>
       </div>
 
       <div class="row squarePictures">
         <div class="col-lg-6 col-md-6 col-sm-6 col-xs-6 squaresLeft">
-          <img class="longImage" src="./washingtonSet/106.jpg" />
+          <div my-widget file="./washingtonSet/106.jpg" imgClass ="longImage"/></div>
         </div>
         <div class="col-lg-6 col-md-6 col-sm-6 col-xs-6 squaresRight">
-          <img class="longImage" src="./washingtonSet/110.jpg" />
+          <div my-widget file="./washingtonSet/110.jpg" imgClass ="longImage"/></div>
         </div>
       </div>
 
       <div class="row no-gutters">
         <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
-          <img class="longImage" src="./washingtonSet/800.jpg" />
+          <div my-widget file="./washingtonSet/800.jpg" imgClass ="longImage"/></div>
         </div>
       </div>
 
@@ -287,7 +290,108 @@
         </div>
       </div>
 
+          
+
     </div>
+
+
+    
+    
+
+    <script>
+      var x = angular.module('PlatformApp', []);
+
+      x.controller('PlatformCtrl', ['$scope', function($scope) {
+        console.log("hi");
+      }]);
+
+      x.directive("myWidget", function() {
+
+
+
+
+        return {
+          restrict: "EA",
+          scope: true,
+          replace: true,
+          template: 
+            " <div> "+
+            "   <img   ng-if=\"isMobile\" class=\"{{imgclass}}\" ng-src=\"{{small}}\" />   "+
+            "   <img  ng-if=\"!isMobile\" class=\"{{imgclass}}\" ng-src=\"{{source}}\" />  "+ 
+            " </div>   ",
+          link: function(scope, element, attributes) {
+
+            var isMobile = {
+                Android: function() {
+                    return navigator.userAgent.match(/Android/i);
+                },
+                BlackBerry: function() {
+                    return navigator.userAgent.match(/BlackBerry/i);
+                },
+                iOS: function() {
+                    return navigator.userAgent.match(/iPhone|iPad|iPod/i);
+                },
+                Opera: function() {
+                    return navigator.userAgent.match(/Opera Mini/i);
+                },
+                Windows: function() {
+                    return navigator.userAgent.match(/IEMobile/i);
+                },
+                any: function() {
+                    return (isMobile.Android() || isMobile.BlackBerry() || isMobile.iOS() || isMobile.Opera() || isMobile.Windows())
+                }
+            };
+
+            if(isMobile.any())
+              scope.isMobile = true;
+            else
+              scope.isMobile = false
+
+            scope.source = attributes.file;
+
+            index = function(i) { 
+                  if ( i>=0 ) 
+                    return i -1
+                  else 
+                    return null  
+                }
+
+             var smallSource = {
+               
+              png: function() {
+                var indexNum = index(attributes.file.indexOf("png"))
+                if(indexNum != null)
+                  return attributes.file.substring(0, indexNum) + "_xs.png"
+                else
+                  return null
+              },
+              jpg: function() {
+                var indexNum = index( attributes.file.indexOf("jpg"))
+                if(indexNum != null)
+                  return attributes.file.substring(0, indexNum) + "_xs.jpg"
+                else
+                  return null
+              },
+              jpeg: function() {
+                var indexNum = index( attributes.file.indexOf("jpeg"))
+                if(indexNum != null)
+                  return attributes.file.substring(0, indexNum) + "_xs.jpeg"
+                else
+                  return null
+              },
+              any: function() {
+                return ( smallSource.png() || smallSource.jpg() || smallSource.jpeg() )
+              }
+            };
+
+            scope.small = smallSource.any()
+            scope.imgclass =  attributes.imgclass;
+
+          }
+        };
+      });
+    </script>
+
   </body>
 
 </html>
