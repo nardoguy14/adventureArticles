@@ -110,9 +110,16 @@ p {
     left: 0%;
     animation-name: moveUp;
     animation-duration: 2s;
+    -webkit-animation-name: moveUp;
+    -webkit-animation-duration: 2s;
 }
 
 @keyframes moveUp {
+    from {bottom: -4%;}
+    to {bottom: 0%;}
+}
+
+@-webkit-keyframes moveUp {
     from {bottom: -4%;}
     to {bottom: 0%;}
 }
