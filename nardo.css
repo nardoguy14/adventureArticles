@@ -71,15 +71,6 @@ p {
 .icon {
     bottom: 0%;
 }
-/* The element to apply the animation to */
-.coins {
-    position: absolute;
-    width: 100px;
-    height: 100px;
-    left: 50%;
-    animation-name: moveUp;
-    animation-duration: 2s;
-}
 
 .coin {
     position: absolute;
@@ -89,8 +80,16 @@ p {
     top: -2%;
     animation-name: moveDownRight;
     animation-duration: 2s;
+    -webkit-animation-name: moveDownRight;
+    -webkit-animation-duration: 2s;
 }
+
 @keyframes moveDownRight {
+    from { left: -5%; top: -5%;}
+    to { left: -2%; top: -2%;}
+}
+
+@-webkit-keyframes moveDownRight {
     from { left: -5%; top: -5%;}
     to { left: -2%; top: -2%;}
 }
@@ -102,12 +101,25 @@ p {
     right: 0%;
     animation-name: moveUp;
     animation-duration: 2s;
+    -webkit-animation-name: moveUp;
+    -webkit-animation-duration: 2s;
 }
 .misc {
     position: absolute;
     width: 100px;
     height: 100px;
     left: 0%;
+    animation-name: moveUp;
+    animation-duration: 2s;
+    -webkit-animation-name: moveUp;
+    -webkit-animation-duration: 2s;
+}
+
+.coins {
+    position: absolute;
+    width: 100px;
+    height: 100px;
+    left: 50%;
     animation-name: moveUp;
     animation-duration: 2s;
     -webkit-animation-name: moveUp;
@@ -132,9 +144,16 @@ p {
     transform: rotate(90deg);
     animation-name: moveLeft;
     animation-duration: 2s;
+    -webkit-animation-name: moveLeft;
+    -webkit-animation-duration: 2s;
 }
 
 @keyframes moveLeft {
+    from {right: -4%;}
+    to {right: 0%;}
+}
+
+@-webkit-keyframes moveLeft {
     from {right: -4%;}
     to {right: 0%;}
 }
