@@ -144,7 +144,7 @@ p {
     transform: rotate(90deg);
     animation-name: moveLeft;
     animation-duration: 2s;
-
+-webkit-transform: translateZ(0);
 
 }
 
