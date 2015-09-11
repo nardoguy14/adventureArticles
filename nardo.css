@@ -80,13 +80,13 @@ p {
     top: -2%;
     animation-name: moveDownRight;
     animation-duration: 2s;
-    -webkit-animation-name: moveDownRight;
-    -webkit-animation-duration: 2s;
+
+
 }
 
 @keyframes moveDownRight {
-    from { left: -5%; }
-    to { left: -2%; }
+    from { left: -5%; top: -5%;}
+    to { left: -2%; top: -2%;}
 }
 
 @-webkit-keyframes moveDownRight {
@@ -144,8 +144,8 @@ p {
     transform: rotate(90deg);
     animation-name: moveLeft;
     animation-duration: 2s;
-    -webkit-animation-name: moveLeft;
-    -webkit-animation-duration: 2s;
+
+
 }
 
 @keyframes moveLeft {
