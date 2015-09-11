@@ -79,18 +79,18 @@ p {
     left: -2%;
     top: -2%;
     animation-name: moveDownRight;
-    animation-duration: 2s;
+    animation-duration: 1s;
     -webkit-animation-name: moveDownRight;
-    -webkit-animation-duration: 2s;
+    -webkit-animation-duration: 1s;
 }
 
 @keyframes moveDownRight {
-    from { left: -5%; top: -5%;}
+    from { left: -54%; top: -54%;}
     to { left: -2%; top: -2%;}
 }
 
 @-webkit-keyframes moveDownRight {
-    from { left: -5%; top: -5%;}
+    from { left: -54%; top: -54%;}
     to { left: -2%; top: -2%;}
 }
 
@@ -100,9 +100,9 @@ p {
     height: 15%;
     right: 0%;
     animation-name: moveUp;
-    animation-duration: 2s;
+    animation-duration: 1s;
     -webkit-animation-name: moveUp;
-    -webkit-animation-duration: 2s;
+    -webkit-animation-duration: 1s;
 }
 .misc {
     position: fixed;
@@ -110,9 +110,9 @@ p {
     height: 100px;
     left: 0%;
     animation-name: moveUp;
-    animation-duration: 2s;
+    animation-duration: 1s;
     -webkit-animation-name: moveUp;
-    -webkit-animation-duration: 2s;
+    -webkit-animation-duration: 1s;
 }
 
 .coins {
@@ -121,18 +121,18 @@ p {
     height: 100px;
     left: 50%;
     animation-name: moveUp;
-    animation-duration: 2s;
+    animation-duration: 1s;
     -webkit-animation-name: moveUp;
-    -webkit-animation-duration: 2s;
+    -webkit-animation-duration: 1s;
 }
 
 @keyframes moveUp {
-    from {  bottom: -4%;}
+    from {  bottom: -44%;}
     to {bottom: 0%;}
 }
 
 @-webkit-keyframes moveUp {
-   from {  bottom: -4%;}
+   from {  bottom: -44%;}
     to {bottom: 0%;}
 }
 
@@ -143,18 +143,18 @@ p {
     right: 0%;
     transform: rotate(90deg);
     animation-name: moveLeft;
-    animation-duration: 2s;
+    animation-duration: 1s;
     -webkit-animation-name: moveLeft;
-    -webkit-animation-duration: 2s;
+    -webkit-animation-duration: 1s;
 }
 
 @keyframes moveLeft {
-    from {right: -4%;}
+    from {right: -44%;}
     to {right: 0%;}
 }
 
 @-webkit-keyframes moveLeft {
-    from {right: -4%;}
+    from {right: -44%;}
     to {right: 0%;}
 }
 
