@@ -61,5 +61,74 @@ p {
 .link {
     transition: all 1.5s ease-in-out; 
 }
-.link:hover { transform: scale(1.5); }
+.link:hover { 
+    transform: scale(1.5);
+    -webkit-transform: scale(1.5); 
+ }
+
+
+
+.icon {
+    bottom: 0%;
+}
+/* The element to apply the animation to */
+.coins {
+    position: absolute;
+    width: 100px;
+    height: 100px;
+    left: 50%;
+    animation-name: moveUp;
+    animation-duration: 2s;
+}
+
+.coin {
+    position: absolute;
+    width: 100px;
+    height: 100px;
+    left: -2%;
+    top: -2%;
+    animation-name: moveDownRight;
+    animation-duration: 2s;
+}
+@keyframes moveDownRight {
+    from { left: -5%; top: -5%;}
+    to { left: -2%; top: -2%;}
+}
+
+.lensCap {
+    position: absolute;
+    width: 100px;
+    height: 15%;
+    right: 0%;
+    animation-name: moveUp;
+    animation-duration: 2s;
+}
+.misc {
+    position: absolute;
+    width: 100px;
+    height: 100px;
+    left: 0%;
+    animation-name: moveUp;
+    animation-duration: 2s;
+}
+
+@keyframes moveUp {
+    from {bottom: -4%;}
+    to {bottom: 0%;}
+}
+
+.skiPass {
+    position: absolute;
+    width: 100px;
+    height: 100px;
+    right: 0%;
+    transform: rotate(90deg);
+    animation-name: moveLeft;
+    animation-duration: 2s;
+}
+
+@keyframes moveLeft {
+    from {right: -4%;}
+    to {right: 0%;}
+}
 
