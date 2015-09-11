@@ -73,15 +73,15 @@ p {
 }
 
 .coin {
-    position: absolute;
+    position: fixed;
     width: 100px;
     height: 100px;
     left: -2%;
     top: -2%;
     animation-name: moveDownRight;
     animation-duration: 2s;
-
-
+    -webkit-animation-name: moveDownRight;
+    -webkit-animation-duration: 2s;
 }
 
 @keyframes moveDownRight {
@@ -90,12 +90,12 @@ p {
 }
 
 @-webkit-keyframes moveDownRight {
-    from { left: -54%; top: -54%;}
+    from { left: -5%; top: -5%;}
     to { left: -2%; top: -2%;}
 }
 
 .lensCap {
-    position: absolute;
+    position: fixed;
     width: 100px;
     height: 15%;
     right: 0%;
@@ -105,7 +105,7 @@ p {
     -webkit-animation-duration: 2s;
 }
 .misc {
-    position: absolute;
+    position: fixed;
     width: 100px;
     height: 100px;
     left: 0%;
@@ -116,7 +116,7 @@ p {
 }
 
 .coins {
-    position: absolute;
+    position: fixed;
     width: 100px;
     height: 100px;
     left: 50%;
@@ -127,25 +127,25 @@ p {
 }
 
 @keyframes moveUp {
-    from {bottom: -4%;}
+    from {  bottom: -4%;}
     to {bottom: 0%;}
 }
 
 @-webkit-keyframes moveUp {
-    from {bottom: -44%;}
+   from {  bottom: -4%;}
     to {bottom: 0%;}
 }
 
 .skiPass {
-    position: absolute;
+    position: fixed;
     width: 100px;
     height: 100px;
     right: 0%;
     transform: rotate(90deg);
     animation-name: moveLeft;
     animation-duration: 2s;
--webkit-transform: translateZ(0);
-
+    -webkit-animation-name: moveLeft;
+    -webkit-animation-duration: 2s;
 }
 
 @keyframes moveLeft {
@@ -154,7 +154,7 @@ p {
 }
 
 @-webkit-keyframes moveLeft {
-    from {right: -44%;}
+    from {right: -4%;}
     to {right: 0%;}
 }
 
