@@ -23,12 +23,36 @@
       ga('send', 'pageview');
     </script>
 
+    <script src="./drawsvg.js"></script>
+
 
 
   </head>
 
   <body >
     <table style="position: absolute; height:100%">
+      <tr>
+        <td style="vertical-align:middle">
+          <div class="row ">
+            <div class="col-lg-4 col-md-4 col-sm-4 col-xs-4 ">
+              
+            </div>
+            <div class="col-lg-4 col-md-4 col-sm-4 col-xs-4 ">
+              <object id="nardo" data="./icons/secondname.svg" type="image/svg+xml">
+
+              </object>
+            </div>
+            <div class="col-lg-4 col-md-4 col-sm-4 col-xs-4 ">
+              
+            </div>
+          </div>
+        </td>
+      </tr>
+
+
+
+
+
       <tr>
         <td style="vertical-align:middle">
           <div class="row squarePictures">
@@ -56,6 +80,27 @@
     <img class="misc icon" src ="./icons/misc.png"/>
     <img class="skiPass" src ="./icons/ski_pass.png"/>
 
+
+    <div class = "center" >
+
+      <object id="nardo" data="./icons/secondname.svg" type="image/svg+xml">
+
+      </object>
+
+
+
+      <script>
+      var drawBrand = function(){   new DrawFillSVG({
+            elementId: "nardo"
+          }) };
+
+      setTimeout( 
+          drawBrand
+        , 1000 );
+       
+      </script>
+
+    </div>
 
   </body>
 
