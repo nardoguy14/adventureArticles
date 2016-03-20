@@ -59,11 +59,17 @@ p {
 }
 
 .link {
-    transition: all 1.5s ease-in-out; 
+    transition: all .5s ease-in-out; 
 }
 .link:hover { 
     transform: scale(1.5);
     -webkit-transform: scale(1.5); 
+    filter: blur(1px);
+    -webkit-filter: blur(1px);
+    -moz-filter: blur(1px);
+    -o-filter: blur(1px);
+    -ms-filter: blur(1px);
+
  }
 
 
@@ -120,10 +126,16 @@ p {
     width: 100px;
     height: 100px;
     left: 50%;
-    animation-name: moveUp;
+    bottom: -5%;
+    animation-name: moveSlightlyUp;
     animation-duration: 1s;
-    -webkit-animation-name: moveUp;
+    -webkit-animation-name: moveSlightlyUp;
     -webkit-animation-duration: 1s;
+}
+
+@keyframes moveSlightlyUp {
+    from {  bottom: -44%;}
+    to {bottom: -5%;}
 }
 
 @keyframes moveUp {
