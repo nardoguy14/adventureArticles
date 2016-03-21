@@ -17,6 +17,7 @@ p {
     padding-top:    20px;
     padding-bottom: 20px;
     text-align:center;
+    font-size: 2vw;
 }
 
 .row.no-gutters > [class^="col-"],
@@ -26,24 +27,24 @@ p {
 }
 
 .longImage {
-	position:relative;
+    position:relative;
     height:auto;
     width:100%;
-	
+    
 }
 
 
 .squarePictures {
-	margin-bottom: 15px;
-	margin-top: 15px;
+    margin-bottom: 15px;
+    margin-top: 15px;
 }
 .squarePictures .squaresLeft {
-	padding-left: 15px;
-	padding-right: 7.5px;
+    padding-left: 15px;
+    padding-right: 7.5px;
 }
 .squarePictures .squaresRight {
-	padding-left: 7.5px;
-	padding-right: 15px;
+    padding-left: 7.5px;
+    padding-right: 15px;
 }
 
 .overlay {
@@ -52,6 +53,21 @@ p {
     width:100%;
     text-align:center;
     color: white;
+}
+
+.overlayVideo {
+    position:absolute;
+    top:5%;
+    left:0;
+    z-index:1;
+}
+
+.blackwhite {
+     filter: grayscale(1);
+    -webkit-filter: grayscale(1);
+    -moz-filter: grayscale(1);
+    -o-filter: grayscale(1);
+    -ms-filter: grayscale(1);
 }
 
 .fb-comments, .fb-comments iframe[style], .fb-comments span {
