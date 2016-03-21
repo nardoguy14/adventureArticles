@@ -18,11 +18,10 @@ p {
     padding-bottom: 20px;
     text-align:center;
     font-size: 2vw;
+    @media only screen and (min-device-width : 768px) and (max-device-width : 1024px)  { font-size: 6vw;}
 }
 
-@media only screen 
-and (min-device-width : 768px) 
-and (max-device-width : 1024px)  { font-size: 6vw;}
+
 
 .row.no-gutters > [class^="col-"],
 .row.no-gutters > [class*=" col-"] {
