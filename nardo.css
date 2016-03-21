@@ -22,9 +22,9 @@ p {
 }
 
 @media only screen 
-    and (max-device-width: 640px), 
-    only screen and (max-device-width: 667px), 
-    only screen and (max-width: 480px)
+    and (max-device-width: 980px), 
+    only screen and (max-device-width: 980px), 
+    only screen and (max-width: 980px)
     {font-size: 6vw; }
 
 
