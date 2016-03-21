@@ -18,12 +18,14 @@ p {
     padding-bottom: 20px;
     text-align:center;
     font-size: 2vw;
-    @media only screen 
+    
+}
+
+@media only screen 
     and (max-device-width: 640px), 
     only screen and (max-device-width: 667px), 
     only screen and (max-width: 480px)
-    {font-size: 4vw; }
-}
+    {font-size: 6vw; }
 
 
 
