@@ -316,8 +316,8 @@
           replace: true,
           template: 
             " <div> "+
-            "   <img data-bottom-top='{{topskrollr}}' data-top-bottom='{{bottomskrollr}}' ng-if=\"isMobile\" class=\"{{imgclass}}\" ng-src=\"{{small}}\" />    "+
-            "   <img data-bottom-top='{{topskrollr}}' data-top-bottom='{{bottomskrollr}}' ng-if=\"!isMobile\" class=\"{{imgclass}}\" ng-src=\"{{source}}\" />  "+ 
+            "   <img loop=infinite ng-if=\"isMobile\" class=\"{{imgclass}}\" ng-src=\"{{small}}\" />    "+
+            "   <img loop=infinite ng-if=\"!isMobile\" class=\"{{imgclass}}\" ng-src=\"{{source}}\" />  "+ 
             " </div>   ",
           link: function(scope, element, attributes) {
 
