@@ -1,7 +1,8 @@
-import { Component } from '@angular/core';
+import { Component, OnInit } from '@angular/core';
 import { EntriesService } from './entries.service';
-import {Entry, EntryBlock, Picture, PictureSquareSet, EntryHeader, EntryVideo, EntryText} from "./entry";
+import {Entry, EntryBlock, Picture, PictureSquareSet, EntryHeader, EntryVideo, EntryText, EntryArticle} from "./entry";
 import { Router, RouteParams } from '@angular/router-deprecated';
+import {MammothEntry} from './mammoth.entry'
 
 
 @Component({
@@ -11,26 +12,23 @@ import { Router, RouteParams } from '@angular/router-deprecated';
         EntriesService
     ]
 })
-export class EntryComponent {
+export class EntryComponent implements OnInit {
 
-    selectedEntry: Entry[]
-    test: EntryBlock[]
-    header: EntryHeader
+    article: EntryArticle
+    id: number
 
     constructor(private entriesService: EntriesService,
                 private router: Router,
                 private routeParams: RouteParams) { }
 
     ngOnInit() {
-        let id = +this.routeParams.get('id');
-        this.entriesService.getEntry(id)
-            .then(entry => this.selectedEntry = [entry] )
-            .then(entry => console.log(entry))
-        
-        this.test = this.entriesService.entryBlocks
-        this.header = this.entriesService.entryHeader
+        this.id = +this.routeParams.get('id');
+        this.getEntry(this.id)
+    }
 
-        console.log(this.entriesService.entryBlocks[1])
+    getEntry(id: number) {
+        this.entriesService.getEntry(this.id)
+            .then(entry => this.article = entry)
     }
 
     isPicture(obj: EntryBlock){

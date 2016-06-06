@@ -1,4 +1,4 @@
-import { Component } from '@angular/core';
+import { Component, OnInit } from '@angular/core';
 import { EntriesService } from './entries.service';
 import {Entry} from "./entry";
 import { Router } from '@angular/router-deprecated';
@@ -10,7 +10,7 @@ import { Router } from '@angular/router-deprecated';
         EntriesService
     ]
 })
-export class EntriesComponent {
+export class EntriesComponent implements OnInit {
 
     entries: Entry[];
     selectedEntry: Entry;
@@ -23,10 +23,8 @@ export class EntriesComponent {
     }
 
     goToDetail(entry: Entry) {
-
         this.selectedEntry = entry;
         let link = ['Entry', { id: entry.id }];
         this.router.navigate(link);
-
     }
 }

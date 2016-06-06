@@ -12,14 +12,12 @@ class utils {
     }
 }
 
-
 export class Entry {
     id: number;
     name: string;
     title: string;
     picture: string;
 }
-
 
 export interface EntryBlock {}
 
@@ -46,7 +44,6 @@ export class PictureSquareSet implements EntryBlock {
     ) {}
 }
 
-
 export class Title {
     constructor(public upperTitle: string, public mainTitle: string, public lowerTitle: string){}
 }
@@ -62,4 +59,8 @@ export class EntryText implements EntryBlock {
 
 export class EntryVideo implements EntryBlock {
     constructor(public source: string) {}
+}
+
+export class EntryArticle {
+    constructor(public header: EntryHeader, public blocks: EntryBlock[]) {}
 }
