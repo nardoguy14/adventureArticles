@@ -48,12 +48,12 @@ p {
     margin-top: 15px;
 }
 .squarePictures .squaresLeft {
-    padding-left: 15px;
+    padding-left: 30px;
     padding-right: 7.5px;
 }
 .squarePictures .squaresRight {
     padding-left: 7.5px;
-    padding-right: 15px;
+    padding-right: 30px;
 }
 
 .overlay {
