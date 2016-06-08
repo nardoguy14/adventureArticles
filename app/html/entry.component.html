@@ -1,10 +1,10 @@
 
 <!-- main header content -->
-<div class = "animated fadeInDown " *ngIf = "article != undefined">
+<div id = "mainBody" class="animated fadeInRight" *ngIf = "article != undefined">
 
     <div class="row no-gutters">
         <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
-            <img class="longImage" src="{{article.header.picture.picture}}.jpg" />
+            <img photo class="hideIt longImage" src="{{article.header.picture.picture}}.jpg" />
             <p *ngIf = "article.header.title.upperTitle != undefined"
                class = "overlay"
                style="top:30%;font-weight:regular;font-family:times new roman,serif;color:#FFFFFF;line-height:40px; font-size:2vw;">

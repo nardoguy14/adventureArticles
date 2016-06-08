@@ -27,7 +27,7 @@ import {EntryComponent} from "./entry.component";
 
 @Component({
     selector: 'my-app',
-    templateUrl: 'app/app.component.html' ,
+    templateUrl: 'app/html/app.component.html' ,
     directives: [ROUTER_DIRECTIVES],
     providers: [
         ROUTER_PROVIDERS

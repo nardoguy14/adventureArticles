@@ -1,0 +1,77 @@
+"use strict";
+var __decorate = (this && this.__decorate) || function (decorators, target, key, desc) {
+    var c = arguments.length, r = c < 3 ? target : desc === null ? desc = Object.getOwnPropertyDescriptor(target, key) : desc, d;
+    if (typeof Reflect === "object" && typeof Reflect.decorate === "function") r = Reflect.decorate(decorators, target, key, desc);
+    else for (var i = decorators.length - 1; i >= 0; i--) if (d = decorators[i]) r = (c < 3 ? d(r) : c > 3 ? d(target, key, r) : d(target, key)) || r;
+    return c > 3 && r && Object.defineProperty(target, key, r), r;
+};
+var __metadata = (this && this.__metadata) || function (k, v) {
+    if (typeof Reflect === "object" && typeof Reflect.metadata === "function") return Reflect.metadata(k, v);
+};
+const core_1 = require('@angular/core');
+const entries_service_1 = require('../services/entries.service');
+const entry_1 = require("../entry");
+const router_deprecated_1 = require('@angular/router-deprecated');
+const image_directives_1 = require('../directives/image.directives');
+let EntryComponent = class EntryComponent {
+    constructor(entriesService, router, routeParams) {
+        this.entriesService = entriesService;
+        this.router = router;
+        this.routeParams = routeParams;
+    }
+    ngOnInit() {
+        this.id = +this.routeParams.get('id');
+        this.getEntry(this.id);
+    }
+    getEntry(id) {
+        this.entriesService.getEntry(this.id)
+            .then(entry => this.article = entry);
+    }
+    isPicture(obj) {
+        if (obj instanceof entry_1.Picture)
+            return true;
+        else
+            return false;
+    }
+    isPictureSet(obj) {
+        if (obj instanceof entry_1.PictureSquareSet) {
+            return true;
+        }
+        else
+            return false;
+    }
+    isVideo(obj) {
+        if (obj instanceof entry_1.EntryVideo) {
+            return true;
+        }
+        else
+            return false;
+    }
+    isText(obj) {
+        if (obj instanceof entry_1.EntryText) {
+            return true;
+        }
+        else
+            return false;
+    }
+};
+EntryComponent = __decorate([
+    core_1.Component({
+        selector: 'entry',
+        templateUrl: 'app/html/entry.component.html',
+        providers: [
+            entries_service_1.EntriesService
+        ],
+        styles: [
+            `
+        .hideIt {
+          display: none;
+        }
+        `
+        ],
+        directives: [image_directives_1.PhotoLoadDirective]
+    }), 
+    __metadata('design:paramtypes', [entries_service_1.EntriesService, router_deprecated_1.Router, router_deprecated_1.RouteParams])
+], EntryComponent);
+exports.EntryComponent = EntryComponent;
+//# sourceMappingURL=entry.component.js.map

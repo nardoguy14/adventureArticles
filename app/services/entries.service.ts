@@ -2,8 +2,8 @@ import { Injectable } from '@angular/core';
 import {
     Entry, EntryBlock, Picture, PictureSquareSet, EntryHeader, Title, EntryText, EntryVideo,
     EntryArticle
-} from './entry';
-import {MammothEntry} from './mammoth.entry'
+} from '../entry';
+import {MammothEntry} from '../mammoth.entry'
 import { OnInit } from '@angular/core';
 
 @Injectable()
@@ -24,8 +24,7 @@ export class EntriesService {
 
     getEntry(id: number): Promise<EntryArticle> {
        var article = this.idToArticle.filter(entry => entry.id == id)[0].article
-        console.log("jiii")
-        console.log(article)
        return Promise.resolve(article)
     }
 }
+

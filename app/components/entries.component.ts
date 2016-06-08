@@ -1,11 +1,11 @@
 import { Component, OnInit } from '@angular/core';
-import { EntriesService } from './entries.service';
-import {Entry} from "./entry";
+import { EntriesService } from '../services/entries.service';
+import {Entry} from "../entry";
 import { Router } from '@angular/router-deprecated';
 
 @Component({
     selector: 'entries',
-    templateUrl: 'app/entries.component.html',
+    templateUrl: 'app/html/entries.component.html',
     providers: [
         EntriesService
     ]
@@ -23,8 +23,14 @@ export class EntriesComponent implements OnInit {
     }
 
     goToDetail(entry: Entry) {
+        let mainBody = document.getElementById("mainBody")
         this.selectedEntry = entry;
         let link = ['Entry', { id: entry.id }];
-        this.router.navigate(link);
+        if(mainBody != null){
+            mainBody.classList.add('animated', 'fadeOutLeft')
+            setTimeout(() => {
+                 this.router.navigate(link)
+            }, 300)
+        }
     }
 }
