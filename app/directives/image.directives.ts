@@ -13,8 +13,9 @@ export class PhotoLoadDirective {
         this.el.setAttribute('display', 'show')
         this.el.classList.add('animated', 'fadeIn')
         this.el.classList.remove('hideIt')
-    }
 
+    }
+    
     private el:HTMLElement;
     constructor(el: ElementRef) { this.el = el.nativeElement; }
 }

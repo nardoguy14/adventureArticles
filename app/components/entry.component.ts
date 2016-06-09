@@ -20,7 +20,7 @@ import {PhotoLoadDirective} from '../directives/image.directives'
     ],
     directives: [PhotoLoadDirective]
 })
-export class EntryComponent implements OnInit, AfterViewChecked {
+export class EntryComponent implements OnInit {
 
     article: EntryArticle
     id: number

@@ -10,13 +10,29 @@ var __metadata = (this && this.__metadata) || function (k, v) {
 };
 const core_1 = require('@angular/core');
 const router_deprecated_1 = require('@angular/router-deprecated');
+const router_deprecated_2 = require('@angular/router-deprecated');
 const dashboard_component_1 = require("./dashboard.component");
 const entries_component_1 = require("./entries.component");
 const entry_component_1 = require("./entry.component");
+const navbarscroll_directives_1 = require("../directives/navbarscroll.directives");
 let AppComponent = class AppComponent {
+    constructor(router) {
+        this.router = router;
+    }
+    goToEntries() {
+        let mainBody = document.getElementById("mainBody");
+        let routeName = this.router.currentInstruction.component.routeName;
+        let link = ['Entries'];
+        if (mainBody != null && routeName != 'Entries' && routeName == 'Entry') {
+            mainBody.classList.add('animated', 'fadeOutRight');
+            setTimeout(() => {
+                this.router.navigate(link).then(_ => mainBody.classList.add('animated', 'fadeInLeft'));
+            }, 300);
+        }
+    }
 };
 AppComponent = __decorate([
-    router_deprecated_1.RouteConfig([
+    router_deprecated_2.RouteConfig([
         {
             path: '/dashboard',
             name: 'Dashboard',
@@ -37,12 +53,12 @@ AppComponent = __decorate([
     core_1.Component({
         selector: 'my-app',
         templateUrl: 'app/html/app.component.html',
-        directives: [router_deprecated_1.ROUTER_DIRECTIVES],
+        directives: [router_deprecated_2.ROUTER_DIRECTIVES, navbarscroll_directives_1.NavBarScrollDirective],
         providers: [
-            router_deprecated_1.ROUTER_PROVIDERS
+            router_deprecated_2.ROUTER_PROVIDERS
         ]
     }), 
-    __metadata('design:paramtypes', [])
+    __metadata('design:paramtypes', [router_deprecated_1.Router])
 ], AppComponent);
 exports.AppComponent = AppComponent;
 //# sourceMappingURL=app.component.js.map
