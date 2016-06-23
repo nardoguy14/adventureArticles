@@ -1497,16 +1497,34 @@
         </td>
     </tr>
 
-    <tr *ngFor="let entry of entries" >
-        <td style="vertical-align:middle">
-            <div class="row squarePictures">
-                <div class=" col-lg-offset-2 col-md-offset-2 col-sm-offset-2 col-xs-offset-2            col-lg-8 col-md-8 col-sm-8 col-xs-8">
+    <tr  >
+        <td style="vertical-align:middle" >
+            <!--<div class="row squarePictures">-->
+                <!--<div class=" col-lg-offset-2 col-md-offset-2 col-sm-offset-2 col-xs-offset-2            col-lg-8 col-md-8 col-sm-8 col-xs-8">-->
+                    <!--<a (click)="goToDetail(entry)">-->
+                        <!--<img class="longImage link" src="{{entry.picture}}.jpg" />-->
+                        <!--<p class="tk-brush-script-std overlay" style="font-size: 4vw;"> {{entry.title}} </p>-->
+                    <!--</a>-->
+                <!--</div>-->
+            <!--</div>-->
+
+            <div class="flex-container wrap">
+                <div *ngFor="let entry of entries" class="flex-item entryItem">
                     <a (click)="goToDetail(entry)">
+                        <p class="overlay tk-brush-script-std"> {{entry.title}} </p>
+
                         <img class="longImage link" src="{{entry.picture}}.jpg" />
-                        <p class="tk-brush-script-std overlay" style="font-size: 4vw;"> {{entry.title}} </p>
                     </a>
+
+
                 </div>
+
             </div>
+
+
         </td>
+
+
     </tr>
 </table>
+

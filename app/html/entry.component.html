@@ -6,15 +6,15 @@
         <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
             <img photo class="hideIt longImage" src="{{article.header.picture.picture}}.jpg" />
             <p *ngIf = "article.header.title.upperTitle != undefined"
-               class = "overlay"
+               class = "overlayTitle"
                style="top:30%;font-weight:regular;font-family:times new roman,serif;color:#FFFFFF;line-height:40px; font-size:2vw;">
                 {{article.header.title.upperTitle}}</p>
             <p *ngIf = "article.header.title.mainTitle != undefined"
-               class = "overlay"
+               class = "overlayTitle"
                style="color:#FFFFFF;font-weight:regular;font-family:times new roman,serif; font-size:4vw;" >
                 {{article.header.title.mainTitle}}</p>
             <p *ngIf = "article.header.title.lowerTitle != undefined"
-               class = "overlay"
+               class = "overlayTitle"
                style="top:70%; font-weight:regular;font-family:times new roman,serif;color:#FFFFFF;line-height:40px; font-size:2vw;">
                 {{article.header.title.lowerTitle}} </p>
         </div>
@@ -35,7 +35,7 @@
          <picture *ngIf = "isPicture(entry)">
              <div class="row no-gutters">
                  <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
-                     <img class="longImage" src="{{entry.picture}}.jpg"/>
+                     <img class="longImage" src="{{entry.picture}}.{{entry.extension}}"/>
                  </div>
              </div>
 
@@ -50,7 +50,7 @@
         <pictureSet *ngIf = "isPictureSet(entry)">
             <div [class.squarePictures]="entry.squarePictures" [class.no-gutters]="entry.gutters" class="row">
                     <div *ngFor ="let aPicture of entry.pictures; let i = index" [class.squaresRight]=" true && i % 2 == 1 " [class.squaresLeft]="entry.squarePictures && i % 2 == 0" class = "col-lg-6 col-md-6 col-sm-6 col-xs-6" >
-                        <img class="longImage" src="{{aPicture.picture}}.jpg" />
+                        <img class="longImage" src="{{aPicture.picture}}.{{aPicture.extension}}" />
                     </div>
             </div>
 

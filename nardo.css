@@ -46,6 +46,13 @@ p {
     
 }
 
+.longImage2 {
+    position:relative;
+    height:auto;
+    width:200px;
+
+}
+
 
 .squarePictures {
     margin-bottom: 15px;
@@ -62,11 +69,22 @@ p {
 
 .overlay {
     position: absolute;
+    width:100%;
+    text-align:center;
+    padding: 10% 0;
+    color: white;
+    z-index: 1;
+    font-size: 9vw;
+}
+
+.overlayTitle {
+    position: absolute;
     top:50%;
     width:100%;
     text-align:center;
     color: white;
 }
+
 
 .overlayVideo {
     position:absolute;
@@ -87,20 +105,17 @@ p {
    width: 100% !important;
 }
 
-.link {
+.entryItem {
     transition: all .5s ease-in-out; 
 }
-.link:hover { 
-    transform: scale(1.5);
-    -webkit-transform: scale(1.5); 
-    filter: blur(1px);
-    -webkit-filter: blur(1px);
-    -moz-filter: blur(1px);
-    -o-filter: blur(1px);
-    -ms-filter: blur(1px);
 
- }
-
+.entryItem:hover{
+    -webkit-filter: grayscale(100%); /* Chrome, Safari, Opera */
+    filter: grayscale(100%);
+    -moz-filter: grayscale(100%);
+    -o-filter: grayscale(100%);
+    -ms-filter: grayscale(100%);
+}
 
 
 .icon {
@@ -206,3 +221,85 @@ p {
     padding: 10px;
 }
 
+
+.flex-container {
+    padding: 0;
+    margin: 0;
+    list-style: none;
+    border: 1px solid silver;
+    -ms-box-orient: horizontal;
+    display: -webkit-box;
+    display: -moz-box;
+    display: -ms-flexbox;
+    display: -moz-flex;
+    display: -webkit-flex;
+    display: flex;
+}
+
+.nowrap  {
+    -webkit-flex-wrap: nowrap;
+    flex-wrap: nowrap;
+}
+
+.wrap    {
+    -webkit-flex-wrap: wrap;
+    flex-wrap: wrap;
+}
+
+.flex-item {
+    position: relative;
+    padding: 5px;
+    width: 100%;
+    height: auto;
+    margin: 10px;
+
+    line-height: 100px;
+    color: white;
+    font-weight: bold;
+    font-size: 2em;
+    text-align: center;
+}
+
+
+@media only screen and (min-width: 600px) {
+    .flex-item {
+        padding: 5px;
+        width: 48%;
+        margin: auto;
+        margin-bottom: 10px;
+        line-height: 100px;
+        color: white;
+        font-weight: bold;
+        font-size: 2em;
+        text-align: center;
+    }
+
+    .flex-container {
+        width: 100%;
+        margin: auto;
+    }
+
+    .overlay{
+        font-size: 4vw;
+    }
+}
+
+@media only screen and (min-width: 1024px) {
+    .flex-item {
+        padding: 5px;
+        width: 30%;
+        margin: auto;
+        height: auto;
+
+        line-height: 100px;
+        color: white;
+        font-weight: bold;
+        font-size: 2em;
+        text-align: center;
+    }
+
+    .overlay {
+        font-size: 3vw;
+    }
+
+}

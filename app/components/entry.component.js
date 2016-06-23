@@ -8,70 +8,68 @@ var __decorate = (this && this.__decorate) || function (decorators, target, key,
 var __metadata = (this && this.__metadata) || function (k, v) {
     if (typeof Reflect === "object" && typeof Reflect.metadata === "function") return Reflect.metadata(k, v);
 };
-const core_1 = require('@angular/core');
-const entries_service_1 = require('../services/entries.service');
-const entry_1 = require("../entry");
-const router_deprecated_1 = require('@angular/router-deprecated');
-const image_directives_1 = require('../directives/image.directives');
-let EntryComponent = class EntryComponent {
-    constructor(entriesService, router, routeParams) {
+var core_1 = require('@angular/core');
+var entries_service_1 = require('../services/entries.service');
+var entry_1 = require("../entry");
+var router_deprecated_1 = require('@angular/router-deprecated');
+var image_directives_1 = require('../directives/image.directives');
+var EntryComponent = (function () {
+    function EntryComponent(entriesService, router, routeParams) {
         this.entriesService = entriesService;
         this.router = router;
         this.routeParams = routeParams;
     }
-    ngOnInit() {
+    EntryComponent.prototype.ngOnInit = function () {
         this.id = +this.routeParams.get('id');
         this.getEntry(this.id);
-    }
-    getEntry(id) {
+    };
+    EntryComponent.prototype.getEntry = function (id) {
+        var _this = this;
         this.entriesService.getEntry(this.id)
-            .then(entry => this.article = entry);
-    }
-    isPicture(obj) {
+            .then(function (entry) { return _this.article = entry; });
+    };
+    EntryComponent.prototype.isPicture = function (obj) {
         if (obj instanceof entry_1.Picture)
             return true;
         else
             return false;
-    }
-    isPictureSet(obj) {
+    };
+    EntryComponent.prototype.isPictureSet = function (obj) {
         if (obj instanceof entry_1.PictureSquareSet) {
             return true;
         }
         else
             return false;
-    }
-    isVideo(obj) {
+    };
+    EntryComponent.prototype.isVideo = function (obj) {
         if (obj instanceof entry_1.EntryVideo) {
             return true;
         }
         else
             return false;
-    }
-    isText(obj) {
+    };
+    EntryComponent.prototype.isText = function (obj) {
         if (obj instanceof entry_1.EntryText) {
             return true;
         }
         else
             return false;
-    }
-};
-EntryComponent = __decorate([
-    core_1.Component({
-        selector: 'entry',
-        templateUrl: 'app/html/entry.component.html',
-        providers: [
-            entries_service_1.EntriesService
-        ],
-        styles: [
-            `
-        .hideIt {
-          display: none;
-        }
-        `
-        ],
-        directives: [image_directives_1.PhotoLoadDirective]
-    }), 
-    __metadata('design:paramtypes', [entries_service_1.EntriesService, router_deprecated_1.Router, router_deprecated_1.RouteParams])
-], EntryComponent);
+    };
+    EntryComponent = __decorate([
+        core_1.Component({
+            selector: 'entry',
+            templateUrl: 'app/html/entry.component.html',
+            providers: [
+                entries_service_1.EntriesService
+            ],
+            styles: [
+                "\n        .hideIt {\n          display: none;\n        }\n        "
+            ],
+            directives: [image_directives_1.PhotoLoadDirective]
+        }), 
+        __metadata('design:paramtypes', [entries_service_1.EntriesService, router_deprecated_1.Router, router_deprecated_1.RouteParams])
+    ], EntryComponent);
+    return EntryComponent;
+}());
 exports.EntryComponent = EntryComponent;
 //# sourceMappingURL=entry.component.js.map

@@ -25,6 +25,7 @@ export class Picture implements EntryBlock {
     title: string = ''
     picture: string = ''
     note: string = ''
+    extension: string = 'jpg'
 
     constructor(source) {
         this.init(source);
