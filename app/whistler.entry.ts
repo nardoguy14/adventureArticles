@@ -81,7 +81,79 @@ export module WhistlerEntry {
                 new Picture({picture: dir + "64"})
             ],
             ''
-        )
+        ),
+        new EntryText(
+            "II.",
+            [
+            ]
+        ),
+        new Picture({title: "", picture: dir + "67"}),
+        new PictureSquareSet(
+            [
+                new Picture({picture: dir + "68"}),
+                new Picture({picture: dir + "69"})
+            ],
+            ''
+        ),
+        new Picture({title: "", picture: dir + "71"}),
+        new Picture({title: "", picture: dir + "74"}),
+        new PictureSquareSet(
+            [
+                new Picture({picture: dir + "72"}),
+                new Picture({picture: dir + "73"})
+            ],
+            ''
+        ),
+        new Picture({title: "", picture: dir + "75"}),
+        new PictureSquareSet(
+            [
+                new Picture({picture: dir + "77"}),
+                new Picture({picture: dir + "78"})
+            ],
+            ''
+        ),
+        new Picture({title: "", picture: dir + "76"}),
+        new PictureSquareSet(
+            [
+                new Picture({picture: dir + "79"}),
+                new Picture({picture: dir + "80"})
+            ],
+            ''
+        ),
+        new Picture({title: "", picture: dir + "81"}),
+        new Picture({title: "", picture: dir + "83"}),
+        new Picture({title: "", picture: dir + "82"}),
+        new Picture({title: "", picture: dir + "87"}),
+        new PictureSquareSet(
+            [
+                new Picture({picture: dir + "88"}),
+                new Picture({picture: dir + "89"})
+            ],
+            ''
+        ),
+        new Picture({title: "", picture: dir + "90"}),
+        new PictureSquareSet(
+            [
+                new Picture({picture: dir + "91"}),
+                new Picture({picture: dir + "92"}),
+                new Picture({picture: dir + "93"}),
+                new Picture({picture: dir + "85"})
+
+
+            ],
+            ''
+        ),
+        new Picture({title: "", picture: dir + "94"}),
+        new Picture({title: "", picture: dir + "95"}),
+        new EntryVideo(dir + "whistler")
+
+
+
+
+
+
+
+
     ]
 
     let entryHeader: EntryHeader = new EntryHeader(
