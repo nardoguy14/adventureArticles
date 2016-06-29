@@ -4,8 +4,13 @@ import {
 } from './entry';
 
 export module WhistlerEntry {
+    var dir = "./whistler/"
+    let mobile = /iPad|iPhone|iPod|Android/.test(navigator.userAgent)
+    if(mobile)
+        dir += "xs/"
 
-    let dir = "./whistler/"
+    console.log(dir)
+    console.log(navigator.userAgent)
 
     let entryBlocks: EntryBlock[] = [
         new EntryText(

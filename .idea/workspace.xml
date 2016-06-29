@@ -2,85 +2,595 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="91288de4-d405-4196-a330-6ead5b00e0c4" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/northstar/1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/northstar/10.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/northstar/11.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/northstar/12.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/northstar/13.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/northstar/14.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/northstar/15.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/northstar/16.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/northstar/17.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/northstar/18.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/northstar/19.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/northstar/2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/northstar/20.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/northstar/21.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/northstar/22.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/northstar/23.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/northstar/24.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/northstar/25.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/northstar/26.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/northstar/27.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/northstar/28.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/northstar/29.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/northstar/3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/northstar/30.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/northstar/31.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/northstar/32.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/northstar/33.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/northstar/34.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/northstar/35.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/northstar/36.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/northstar/37.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/northstar/4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/northstar/5.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/northstar/6.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/northstar/7.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/northstar/8.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/northstar/9.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/northstar/xs/1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/northstar/xs/10.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/northstar/xs/11.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/northstar/xs/12.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/northstar/xs/13.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/northstar/xs/14.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/northstar/xs/15.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/northstar/xs/16.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/northstar/xs/17.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/northstar/xs/18.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/northstar/xs/19.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/northstar/xs/2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/northstar/xs/20.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/northstar/xs/21.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/northstar/xs/22.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/northstar/xs/23.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/northstar/xs/24.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/northstar/xs/25.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/northstar/xs/26.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/northstar/xs/27.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/northstar/xs/28.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/northstar/xs/29.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/northstar/xs/3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/northstar/xs/30.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/northstar/xs/31.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/northstar/xs/32.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/northstar/xs/33.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/northstar/xs/34.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/northstar/xs/35.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/northstar/xs/36.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/northstar/xs/37.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/northstar/xs/4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/northstar/xs/5.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/northstar/xs/6.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/northstar/xs/7.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/northstar/xs/8.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/northstar/xs/9.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/tahoe_northstart.entry.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/7K2A6441.mp4" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/xs/7K2A5421.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/xs/7K2A5425.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/xs/7K2A5430.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/xs/7K2A5436.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/xs/7K2A5444.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/xs/7K2A5446.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/xs/7K2A5449.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/xs/7K2A5450.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/xs/7K2A5475.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/xs/7K2A5481.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/xs/7K2A5523.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/xs/7K2A5537.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/xs/7K2A5545.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/xs/7K2A5556.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/xs/7K2A5566.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/xs/7K2A5573.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/xs/7K2A5779.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/xs/7K2A5847.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/xs/7K2A5848.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/xs/7K2A5849.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/xs/7K2A5850.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/xs/7K2A5851.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/xs/7K2A5852.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/xs/7K2A5853.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/xs/7K2A5854.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/xs/7K2A5855.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/xs/7K2A5856.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/xs/7K2A5857.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/xs/7K2A5858.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/xs/7K2A5859.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/xs/7K2A5860.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/xs/7K2A5861.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/xs/7K2A5862.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/xs/7K2A5863.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/xs/7K2A5864.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/xs/7K2A5865.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/xs/7K2A5866.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/xs/7K2A5867.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/xs/7K2A5868.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/xs/7K2A5869.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/xs/7K2A5870.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/xs/7K2A5871.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/xs/7K2A5872.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/xs/7K2A5873.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/xs/7K2A5874.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/xs/7K2A5875.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/xs/7K2A5876.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/xs/7K2A5877.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/xs/7K2A5878.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/xs/7K2A5879.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/xs/7K2A5880.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/xs/7K2A5881.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/xs/7K2A5882.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/xs/7K2A5883.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/xs/7K2A5884.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/xs/7K2A5885.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/xs/7K2A5886.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/xs/7K2A5887.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/xs/7K2A5888.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/xs/7K2A5889.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/xs/7K2A5890.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/xs/7K2A5891.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/xs/7K2A5892.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/xs/7K2A5893.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/xs/7K2A5894.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/xs/7K2A5895.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/xs/7K2A5896.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/xs/7K2A5897.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/xs/7K2A5898.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/xs/7K2A5899.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/xs/7K2A5900.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/xs/7K2A5901.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/xs/7K2A5902.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/xs/7K2A5903.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/xs/7K2A5904.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/xs/7K2A5905.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/xs/7K2A5906.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/xs/7K2A5907.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/xs/7K2A5908.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/xs/7K2A5909.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/xs/7K2A5910.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/xs/7K2A5911.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/xs/7K2A5912.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/xs/7K2A5913.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/xs/7K2A5914.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/xs/7K2A5915.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/xs/7K2A5916.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/xs/7K2A5917.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/xs/7K2A5918.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/xs/7K2A5919.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/xs/7K2A5920.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/xs/7K2A5921.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/xs/7K2A5922.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/xs/7K2A5923.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/xs/7K2A5924.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/xs/7K2A5925.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/xs/7K2A5926.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/xs/7K2A5927.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/xs/7K2A5928.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/xs/7K2A5929.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/xs/7K2A5930.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/xs/7K2A5931.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/xs/7K2A5932.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/xs/7K2A5933.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/xs/7K2A5934.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/xs/7K2A5935.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/xs/7K2A5936.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/xs/7K2A5937.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/xs/7K2A5938.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/xs/7K2A5939.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/xs/7K2A5940.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/xs/7K2A5941.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/xs/7K2A5942.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/xs/7K2A5943.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/xs/7K2A5944.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/xs/7K2A5945.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/xs/7K2A5946.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/xs/7K2A5947.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/xs/7K2A5948.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/xs/7K2A5949.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/xs/7K2A5950.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/xs/7K2A5951.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/xs/7K2A5952.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/xs/7K2A5953.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/xs/7K2A5954.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/xs/7K2A5955.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/xs/7K2A5956.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/xs/7K2A5957.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/xs/7K2A5958.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/xs/7K2A5959.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/xs/7K2A5960.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/xs/7K2A5961.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/xs/7K2A5962.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/xs/7K2A5963.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/xs/7K2A5964.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/xs/7K2A5965.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/xs/7K2A5966.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/xs/7K2A5967.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/xs/7K2A5968.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/xs/7K2A5969.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/xs/7K2A5970.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/xs/7K2A5971.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/xs/7K2A5972.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/xs/7K2A5973.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/xs/7K2A5974.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/xs/7K2A5975.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/xs/7K2A5976.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/xs/7K2A5977.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/xs/7K2A5978.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/xs/7K2A5979.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/xs/7K2A5980.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/xs/7K2A5981.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/xs/7K2A5982.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/xs/7K2A5983.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/xs/7K2A5984.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/xs/7K2A5985.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/xs/7K2A5986.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/xs/7K2A5987.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/xs/7K2A5988.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/xs/7K2A5989.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/xs/7K2A5990.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/xs/7K2A5991.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/xs/7K2A5992.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/xs/7K2A5993.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/xs/7K2A5994.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/xs/7K2A5995.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/xs/7K2A5996.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/xs/7K2A5997.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/xs/7K2A5998.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/xs/7K2A5999.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/xs/7K2A6000.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/xs/7K2A6001.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/xs/7K2A6002.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/xs/7K2A6003.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/xs/7K2A6004.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/xs/7K2A6005.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/xs/7K2A6006.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/xs/7K2A6007.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/xs/7K2A6008.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/xs/7K2A6009.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/xs/7K2A6010.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/xs/7K2A6011.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/xs/7K2A6012.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/xs/7K2A6013.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/xs/7K2A6014.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/xs/7K2A6015.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/xs/7K2A6016.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/xs/7K2A6017.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/xs/7K2A6018.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/xs/7K2A6019.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/xs/7K2A6020.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/xs/7K2A6021.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/xs/7K2A6022.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/xs/7K2A6023.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/xs/7K2A6024.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/xs/7K2A6025.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/xs/7K2A6026.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/xs/7K2A6027.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/xs/7K2A6028.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/xs/7K2A6029.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/xs/7K2A6030.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/xs/7K2A6031.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/xs/7K2A6032.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/xs/7K2A6033.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/xs/7K2A6034.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/xs/7K2A6035.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/xs/7K2A6036.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/xs/7K2A6037.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/xs/7K2A6038.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/xs/7K2A6039.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/xs/7K2A6040.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/xs/7K2A6041.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/xs/7K2A6042.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/xs/7K2A6043.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/xs/7K2A6044.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/xs/7K2A6045.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/xs/7K2A6046.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/xs/7K2A6047.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/xs/7K2A6048.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/xs/7K2A6049.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/xs/7K2A6050.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/xs/7K2A6051.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/xs/7K2A6052.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/xs/7K2A6053.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/xs/7K2A6054.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/xs/7K2A6055.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/xs/7K2A6056.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/xs/7K2A6057.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/xs/7K2A6058.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/xs/7K2A6059.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/xs/7K2A6060.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/xs/7K2A6061.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/xs/7K2A6062.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/xs/7K2A6063.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/xs/7K2A6064.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/xs/7K2A6065.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/xs/7K2A6066.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/xs/7K2A6067.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/xs/7K2A6068.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/xs/7K2A6069.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/xs/7K2A6070.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/xs/7K2A6071.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/xs/7K2A6072.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/xs/7K2A6073.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/xs/7K2A6074.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/xs/7K2A6075.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/xs/7K2A6076.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/xs/7K2A6077.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/xs/7K2A6078.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/xs/7K2A6079.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/xs/7K2A6080.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/xs/7K2A6081.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/xs/7K2A6082.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/xs/7K2A6083.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/xs/7K2A6084.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/xs/7K2A6085.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/xs/7K2A6086.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/xs/7K2A6087.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/xs/7K2A6088.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/xs/7K2A6089.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/xs/7K2A6090.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/xs/7K2A6091.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/xs/7K2A6092.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/xs/7K2A6093.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/xs/7K2A6094.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/xs/7K2A6095.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/xs/7K2A6096.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/xs/7K2A6097.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/xs/7K2A6098.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/xs/7K2A6099.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/xs/7K2A6100.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/xs/7K2A6101.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/xs/7K2A6102.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/xs/7K2A6103.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/xs/7K2A6104.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/xs/7K2A6105.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/xs/7K2A6106.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/xs/7K2A6107.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/xs/7K2A6108.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/xs/7K2A6109.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/xs/7K2A6110.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/xs/7K2A6111.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/xs/7K2A6112.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/xs/7K2A6113.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/xs/7K2A6114.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/xs/7K2A6115.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/xs/7K2A6116.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/xs/7K2A6117.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/xs/7K2A6118.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/xs/7K2A6119.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/xs/7K2A6120.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/xs/7K2A6121.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/xs/7K2A6122.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/xs/7K2A6123.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/xs/7K2A6124.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/xs/7K2A6125.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/xs/7K2A6126.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/xs/7K2A6127.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/xs/7K2A6128.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/xs/7K2A6129.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/xs/7K2A6130.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/xs/7K2A6131.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/xs/7K2A6132.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/xs/7K2A6133.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/xs/7K2A6134.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/xs/7K2A6135.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/xs/7K2A6136.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/xs/7K2A6137.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/xs/7K2A6138.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/xs/7K2A6139.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/xs/7K2A6140.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/xs/7K2A6141.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/xs/7K2A6142.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/xs/7K2A6143.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/xs/7K2A6144.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/xs/7K2A6145.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/xs/7K2A6146.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/xs/7K2A6147.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/xs/7K2A6148.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/xs/7K2A6149.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/xs/7K2A6150.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/xs/7K2A6151.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/xs/7K2A6152.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/xs/7K2A6153.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/xs/7K2A6154.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/xs/7K2A6155.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/xs/7K2A6156.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/xs/7K2A6157.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/xs/7K2A6158.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/xs/7K2A6159.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/xs/7K2A6160.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/xs/7K2A6161.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/xs/7K2A6162.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/xs/7K2A6163.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/xs/7K2A6164.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/xs/7K2A6165.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/xs/7K2A6166.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/xs/7K2A6167.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/xs/7K2A6168.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/xs/7K2A6169.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/xs/7K2A6170.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/xs/7K2A6172.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/xs/7K2A6173.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/xs/7K2A6174.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/xs/7K2A6178.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/xs/7K2A6189.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/xs/7K2A6195.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/xs/7K2A6208.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/xs/7K2A6211.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/xs/7K2A6223.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/xs/7K2A6224.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/xs/7K2A6232.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/xs/7K2A6244.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/xs/7K2A6263.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/xs/7K2A6292.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/xs/7K2A6300.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/xs/7K2A6302.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/xs/7K2A6305.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/xs/7K2A6307.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/xs/7K2A6320.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/xs/7K2A6327.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/xs/7K2A6333.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/xs/7K2A6357.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/xs/7K2A6360.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/xs/7K2A6370.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/xs/7K2A6372.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/xs/7K2A6373.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/xs/7K2A6378.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/xs/7K2A6399.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/xs/7K2A6401.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/xs/7K2A6410.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/xs/7K2A6415.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/xs/7K2A6416.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/xs/7K2A6417.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/xs/7K2A6422.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/xs/7K2A6434.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/xs/7K2A6440.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/xs/7K2A6441.mp4" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/xs/7K2A6459.mp4" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/xs/7K2A6464.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/xs/7K2A6467.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/xs/7K2A6478.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/xs/7K2A6479.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/xs/7K2A6483.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/xs/7K2A6485.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/xs/7K2A6493.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/xs/7K2A6496.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/xs/7K2A6504.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/xs/7K2A6512.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/xs/7K2A6514.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/xs/7K2A6527.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/xs/7K2A6533 2.mp4" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/xs/7K2A6533.mp4" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/xs/7K2A6534 2.mp4" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/xs/7K2A6534.mp4" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/xs/7K2A6535 2.mp4" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/xs/7K2A6535.mp4" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/xs/7K2A6536 2.mp4" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/xs/7K2A6536.mp4" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/xs/7K2A6537.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/xs/7K2A6538.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/xs/7K2A6561 2.mp4" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/xs/7K2A6561.mp4" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/xs/7K2A6570.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/xs/7K2A6584.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/xs/7K2A6587.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/xs/7K2A6595.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/xs/7K2A6596.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/xs/7K2A6597.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/xs/7K2A6598.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/xs/7K2A6599.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/xs/7K2A6600.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/xs/7K2A6601.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/xs/7K2A6602.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/xs/7K2A6603.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/xs/7K2A6604.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/xs/7K2A6605.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/xs/7K2A6606.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/xs/7K2A6607.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/xs/7K2A6608.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/xs/7K2A6609.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/xs/7K2A6610.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/xs/7K2A6611.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/xs/7K2A6612.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/xs/7K2A6613.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/xs/7K2A6614.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/xs/7K2A6615.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/xs/7K2A6616.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/xs/7K2A6617.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/xs/7K2A6618.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/xs/7K2A6619.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/xs/7K2A6620.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/xs/7K2A6621.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/xs/7K2A6622.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/xs/7K2A6623.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/xs/7K2A6624.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/xs/7K2A6625.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/xs/7K2A6626.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/xs/7K2A6627.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/xs/7K2A6628.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/xs/7K2A6629.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/xs/7K2A6630.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/xs/7K2A6631.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/xs/7K2A6632.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/xs/7K2A6633.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/xs/7K2A6634.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/xs/7K2A6635.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/xs/7K2A6636.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/xs/7K2A6637.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/xs/7K2A6638.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/xs/7K2A6639.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/xs/7K2A6640.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/xs/7K2A6641.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/xs/7K2A6642.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/xs/7K2A6643.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/xs/7K2A6644.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/xs/7K2A6645.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/xs/7K2A6646.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/xs/7K2A6647.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/xs/7K2A6648.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/xs/7K2A6649.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/xs/7K2A6650.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/xs/7K2A6651.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/xs/7K2A6652.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/xs/7K2A6653.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/xs/7K2A6654.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/xs/7K2A6655.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/xs/7K2A6656.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/xs/7K2A6657.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/xs/7K2A6658.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/xs/7K2A6659.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/xs/7K2A6660.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/xs/7K2A6661.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/xs/7K2A6662.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/xs/7K2A6663.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/xs/7K2A6664.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/xs/7K2A6665.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/xs/7K2A6666.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/xs/7K2A6667.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/xs/7K2A6668.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/xs/7K2A6669.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/xs/7K2A6670.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/xs/7K2A6671.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/xs/7K2A6672.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/xs/7K2A6673.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/xs/7K2A6674.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/xs/7K2A6675.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/xs/7K2A6676.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/xs/7K2A6677.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/xs/7K2A6678.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/xs/7K2A6679.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/xs/7K2A6680.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/xs/7K2A6681.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/xs/7K2A6682.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/xs/7K2A6683.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/xs/7K2A6684.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/xs/7K2A6685.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/xs/7K2A6686.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/xs/7K2A6687.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/xs/7K2A6688.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/xs/7K2A6689.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/xs/7K2A6690.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/xs/7K2A6691.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/xs/7K2A6692.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/xs/7K2A6693.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/xs/7K2A6694.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/xs/7K2A6695.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/xs/7K2A6696.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/xs/7K2A6697.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/xs/7K2A6698.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/xs/7K2A6699.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/xs/7K2A6700.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/xs/7K2A6701.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/xs/7K2A6702.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/xs/7K2A6703.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/xs/7K2A6704.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/xs/7K2A6705.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/xs/7K2A6706.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/xs/7K2A6707.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/xs/7K2A6708.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/xs/7K2A6709.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/xs/7K2A6710.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/xs/7K2A6711.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/xs/7K2A6712.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/xs/7K2A6713.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/xs/7K2A6714.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/xs/7K2A6715.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/xs/7K2A6716.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/xs/7K2A6717.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/xs/7K2A6718.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/xs/7K2A6719.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/xs/7K2A6720.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/xs/7K2A6721.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/xs/7K2A6722.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/xs/7K2A6723.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/xs/7K2A6724.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/xs/7K2A6725.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/xs/7K2A6726.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/xs/7K2A6727.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/xs/7K2A6728.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/xs/7K2A6729.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/xs/7K2A6730.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/xs/7K2A6731.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/xs/7K2A6732.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/xs/7K2A6733.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/xs/7K2A6734.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/xs/7K2A6735.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/xs/7K2A6736.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/xs/7K2A6737.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/xs/7K2A6738.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/xs/7K2A6739.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/xs/7K2A6740.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/xs/7K2A6741.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/xs/7K2A6742.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/xs/7K2A6743.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/xs/7K2A6744.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/xs/7K2A6745.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/xs/7K2A6746.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/xs/7K2A6747.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/xs/7K2A6748.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/xs/7K2A6749.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/xs/7K2A6750.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/xs/7K2A6751.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/xs/7K2A6752.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/xs/7K2A6753.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/xs/7K2A6754.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/xs/7K2A6755.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/xs/7K2A6756.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/xs/7K2A6757.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/xs/7K2A6758.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/xs/7K2A6759.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/xs/7K2A6760.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/xs/7K2A6761.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/xs/7K2A6766.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/xs/7K2A6768.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/xs/7K2A6770.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mammothSet/xs/7K2A6772.jpg" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/services/entries.service.js" afterPath="$PROJECT_DIR$/app/services/entries.service.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/services/entries.service.js.map" afterPath="$PROJECT_DIR$/app/services/entries.service.js.map" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/services/entries.service.ts" afterPath="$PROJECT_DIR$/app/services/entries.service.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/mammoth.entry.js" afterPath="$PROJECT_DIR$/app/mammoth.entry.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/mammoth.entry.js.map" afterPath="$PROJECT_DIR$/app/mammoth.entry.js.map" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/mammoth.entry.ts" afterPath="$PROJECT_DIR$/app/mammoth.entry.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/tahoe_northstart.entry.js" afterPath="$PROJECT_DIR$/app/tahoe_northstart.entry.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/tahoe_northstart.entry.js.map" afterPath="$PROJECT_DIR$/app/tahoe_northstart.entry.js.map" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/tahoe_northstart.entry.ts" afterPath="$PROJECT_DIR$/app/tahoe_northstart.entry.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/washington.entry.js" afterPath="$PROJECT_DIR$/app/washington.entry.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/washington.entry.js.map" afterPath="$PROJECT_DIR$/app/washington.entry.js.map" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/washington.entry.ts" afterPath="$PROJECT_DIR$/app/washington.entry.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/whistler.entry.js" afterPath="$PROJECT_DIR$/app/whistler.entry.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/whistler.entry.js.map" afterPath="$PROJECT_DIR$/app/whistler.entry.js.map" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/whistler.entry.ts" afterPath="$PROJECT_DIR$/app/whistler.entry.ts" />
     </list>
@@ -103,16 +613,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="tsconfig.json" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/tsconfig.json">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" column="20" selection-start-line="2" selection-start-column="20" selection-end-line="2" selection-end-column="20" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="main.ts" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/components/main.ts">
           <provider selected="true" editor-type-id="text-editor">
@@ -128,8 +628,28 @@
       <file leaf-file-name="whistler.entry.ts" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/whistler.entry.ts">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="353">
-              <caret line="154" column="0" selection-start-line="154" selection-start-column="0" selection-end-line="154" selection-end-column="0" />
+            <state relative-caret-position="60">
+              <caret line="7" column="4" selection-start-line="7" selection-start-column="4" selection-end-line="9" selection-end-column="20" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="washington.entry.ts" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/washington.entry.ts">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="105">
+              <caret line="10" column="20" selection-start-line="10" selection-start-column="20" selection-end-line="10" selection-end-column="20" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="mammoth.entry.ts" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app/mammoth.entry.ts">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="185">
+              <caret line="120" column="29" selection-start-line="120" selection-start-column="29" selection-end-line="120" selection-end-column="29" />
               <folding />
             </state>
           </provider>
@@ -138,8 +658,8 @@
       <file leaf-file-name="tahoe_northstart.entry.ts" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/tahoe_northstart.entry.ts">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+            <state relative-caret-position="105">
+              <caret line="10" column="20" selection-start-line="10" selection-start-column="20" selection-end-line="10" selection-end-column="20" />
               <folding>
                 <element signature="e#0#136#0" expanded="true" />
               </folding>
@@ -147,11 +667,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="entries.service.ts" pinned="false" current-in-tab="true">
+      <file leaf-file-name="entries.service.ts" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/services/entries.service.ts">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="315">
-              <caret line="21" column="6" selection-start-line="21" selection-start-column="6" selection-end-line="21" selection-end-column="6" />
+            <state relative-caret-position="105">
+              <caret line="17" column="40" selection-start-line="17" selection-start-column="40" selection-end-line="17" selection-end-column="40" />
               <folding>
                 <element signature="e#0#43#0" expanded="true" />
               </folding>
@@ -243,19 +763,19 @@
         <option value="$PROJECT_DIR$/app/directives/navbarscroll.directives.ts" />
         <option value="$PROJECT_DIR$/app/components/entries.component.ts" />
         <option value="$PROJECT_DIR$/app/components/app.component.ts" />
-        <option value="$PROJECT_DIR$/app/mammoth.entry.ts" />
         <option value="$PROJECT_DIR$/app/entry.ts" />
-        <option value="$PROJECT_DIR$/app/washington.entry.ts" />
         <option value="$PROJECT_DIR$/app/html/entries.component.html" />
         <option value="$PROJECT_DIR$/app/html/app.component.html" />
         <option value="$PROJECT_DIR$/nardo.css" />
         <option value="$PROJECT_DIR$/app/html/entry.component.html" />
         <option value="$PROJECT_DIR$/tsconfig.json" />
         <option value="$PROJECT_DIR$/app/components/main.ts" />
-        <option value="$PROJECT_DIR$/app/tahoe_northstart.entry.ts" />
-        <option value="$PROJECT_DIR$/app/whistler.entry.ts" />
         <option value="$PROJECT_DIR$/app/services/entries.service.js" />
         <option value="$PROJECT_DIR$/app/services/entries.service.ts" />
+        <option value="$PROJECT_DIR$/app/whistler.entry.ts" />
+        <option value="$PROJECT_DIR$/app/tahoe_northstart.entry.ts" />
+        <option value="$PROJECT_DIR$/app/washington.entry.ts" />
+        <option value="$PROJECT_DIR$/app/mammoth.entry.ts" />
       </list>
     </option>
   </component>
@@ -296,7 +816,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -325,13 +845,59 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="washingtonSet" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="nardoguy14.github.io" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="nardoguy14.github.io" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mammothSet" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="nardoguy14.github.io" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="nardoguy14.github.io" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mammothSet" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="xs" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="nardoguy14.github.io" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="nardoguy14.github.io" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="app" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -343,19 +909,19 @@
     <property name="SearchEverywhereHistoryKey" value="Picture&#9;null&#9;null&#10;old.&#9;FILE&#9;file:///Users/bernardoarevalo/Desktop/nardoguy14.github.io/old.index.html" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/mammothSet/xs" />
+      <recent name="$PROJECT_DIR$/mammothSet" />
+      <recent name="$PROJECT_DIR$/app" />
+      <recent name="$PROJECT_DIR$/whistler/xs" />
+      <recent name="$PROJECT_DIR$/whistler" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/app/services" />
       <recent name="$PROJECT_DIR$/app/html" />
       <recent name="$PROJECT_DIR$/app/components" />
       <recent name="$PROJECT_DIR$/app" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/app" />
-      <recent name="$PROJECT_DIR$/whistler/xs" />
-      <recent name="$PROJECT_DIR$/whistler" />
-      <recent name="$PROJECT_DIR$/whistler1/xs" />
-      <recent name="$PROJECT_DIR$/whistler1" />
     </key>
   </component>
   <component name="RunManager">
@@ -428,25 +994,26 @@
       <updated>1464484116182</updated>
       <workItem from="1464484117710" duration="41058000" />
       <workItem from="1465186548835" duration="77315000" />
-      <workItem from="1467168120866" duration="1262000" />
+      <workItem from="1467168120866" duration="1806000" />
+      <workItem from="1467169945356" duration="919000" />
+      <workItem from="1467171828141" duration="651000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="119635000" />
+    <option name="totallyTimeSpent" value="121749000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="575" y="23" width="875" height="987" extended-state="0" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.30444965" sideWeight="0.49382716" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="TypeScript Compiler" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32960895" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.37318435" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32960895" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24945612" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.41564247" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.41340783" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2538071" sideWeight="0.50617284" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -454,6 +1021,7 @@
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.37318435" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
@@ -504,16 +1072,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-63">
           <caret line="1551" column="18" selection-start-line="0" selection-start-column="0" selection-end-line="1580" selection-end-column="0" />
-          <folding>
-            <element signature="n#style#0;n#table#0;n#body#0;n#!!top" expanded="false" />
-            <element signature="n#div#0;n#div#0;n#td#0;n#tr#0;n#table#0;n#body#0;n#!!top" expanded="false" />
-            <element signature="n#g#0;n#svg#0;n#div#0;n#div#0;n#td#0;n#tr#0;n#table#0;n#body#0;n#!!top" expanded="false" />
-            <element signature="n#g#1;n#svg#0;n#div#0;n#div#0;n#td#0;n#tr#0;n#table#0;n#body#0;n#!!top" expanded="false" />
-            <element signature="n#g#2;n#svg#0;n#div#0;n#div#0;n#td#0;n#tr#0;n#table#0;n#body#0;n#!!top" expanded="false" />
-            <element signature="n#g#0;n#g#3;n#svg#0;n#div#0;n#div#0;n#td#0;n#tr#0;n#table#0;n#body#0;n#!!top" expanded="false" />
-            <element signature="n#g#4;n#svg#0;n#div#0;n#div#0;n#td#0;n#tr#0;n#table#0;n#body#0;n#!!top" expanded="false" />
-            <element signature="n#g#5;n#svg#0;n#div#0;n#div#0;n#td#0;n#tr#0;n#table#0;n#body#0;n#!!top" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -525,13 +1083,13 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/components/app.component.js.map">
-      <provider editor-type-id="sourcemapFileViewerProvider">
-        <state />
-      </provider>
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="38" selection-start-line="0" selection-start-column="38" selection-end-line="0" selection-end-column="38" />
         </state>
+      </provider>
+      <provider editor-type-id="sourcemapFileViewerProvider">
+        <state />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/components/app.component.js">
@@ -573,7 +1131,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="409">
           <caret line="1379" column="19" selection-start-line="1379" selection-start-column="19" selection-end-line="1379" selection-end-column="19" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -581,18 +1138,17 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="375">
           <caret line="25" column="9" selection-start-line="25" selection-start-column="9" selection-end-line="25" selection-end-column="9" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/components/entries.component.js.map">
-      <provider editor-type-id="sourcemapFileViewerProvider">
-        <state />
-      </provider>
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
+      </provider>
+      <provider editor-type-id="sourcemapFileViewerProvider">
+        <state />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/typings/globals/node/index.d.ts">
@@ -606,7 +1162,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="15">
           <caret line="39" column="0" selection-start-line="31" selection-start-column="4" selection-end-line="39" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -663,7 +1218,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="399">
           <caret line="324" column="17" selection-start-line="324" selection-start-column="17" selection-end-line="324" selection-end-column="17" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -704,23 +1258,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="368">
           <caret line="1527" column="9" selection-start-line="1527" selection-start-column="9" selection-end-line="1527" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/washington.entry.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="465">
-          <caret line="31" column="51" selection-start-line="31" selection-start-column="51" selection-end-line="31" selection-end-column="51" />
-          <folding>
-            <element signature="e#0#136#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/mammoth.entry.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="16" column="13" selection-start-line="0" selection-start-column="0" selection-end-line="128" selection-end-column="1" />
         </state>
       </provider>
     </entry>
@@ -803,6 +1340,58 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/app/services/entries.service.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="19" column="89" selection-start-line="19" selection-start-column="89" selection-end-line="19" selection-end-column="89" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/whistler.entry.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="7" column="4" selection-start-line="7" selection-start-column="4" selection-end-line="9" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/washington.entry.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="10" column="20" selection-start-line="10" selection-start-column="20" selection-end-line="10" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/mammoth.entry.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="185">
+          <caret line="120" column="29" selection-start-line="120" selection-start-column="29" selection-end-line="120" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/tahoe_northstart.entry.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="10" column="20" selection-start-line="10" selection-start-column="20" selection-end-line="10" selection-end-column="20" />
+          <folding>
+            <element signature="e#0#136#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/services/entries.service.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="17" column="40" selection-start-line="17" selection-start-column="40" selection-end-line="17" selection-end-column="40" />
+          <folding>
+            <element signature="e#0#43#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/node_modules/core-js/client/shim.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60180">
@@ -832,42 +1421,6 @@
         <state relative-caret-position="900">
           <caret line="60" column="13" selection-start-line="60" selection-start-column="13" selection-end-line="60" selection-end-column="13" />
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/whistler.entry.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="353">
-          <caret line="154" column="0" selection-start-line="154" selection-start-column="0" selection-end-line="154" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/services/entries.service.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="19" column="89" selection-start-line="19" selection-start-column="89" selection-end-line="19" selection-end-column="89" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/tahoe_northstart.entry.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
-          <folding>
-            <element signature="e#0#136#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/services/entries.service.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="21" column="6" selection-start-line="21" selection-start-column="6" selection-end-line="21" selection-end-column="6" />
-          <folding>
-            <element signature="e#0#43#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>

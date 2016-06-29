@@ -3,6 +3,9 @@ var entry_1 = require('./entry');
 var WashingtonEntry;
 (function (WashingtonEntry) {
     var dir = "./washingtonSet/";
+    var mobile = /iPad|iPhone|iPod|Android/.test(navigator.userAgent);
+    if (mobile)
+        dir += "xs/";
     var entryBlocks = [
         new entry_1.EntryText("Day 1.", []),
         new entry_1.Picture({ title: "", picture: dir + "7" }),

@@ -6,6 +6,9 @@ import {
 export module TahoeNorthStarEntry {
 
     let dir = "./northstar/"
+    let mobile = /iPad|iPhone|iPod|Android/.test(navigator.userAgent)
+    if(mobile)
+        dir += "xs/"
 
     let entryBlocks: EntryBlock[] = [
         new EntryText(

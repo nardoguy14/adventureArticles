@@ -3,6 +3,11 @@ var entry_1 = require('./entry');
 var WhistlerEntry;
 (function (WhistlerEntry) {
     var dir = "./whistler/";
+    var mobile = /iPad|iPhone|iPod|Android/.test(navigator.userAgent);
+    if (mobile)
+        dir += "xs/";
+    console.log(dir);
+    console.log(navigator.userAgent);
     var entryBlocks = [
         new entry_1.EntryText("I.", [
             "Whistler. The pinacle for winter and summer outdoor adventure. Epic skiing and boarding in alpine regions in the winter, and world class mountain bike park open in the summer with pros all around.",

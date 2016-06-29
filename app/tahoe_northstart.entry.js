@@ -3,6 +3,9 @@ var entry_1 = require('./entry');
 var TahoeNorthStarEntry;
 (function (TahoeNorthStarEntry) {
     var dir = "./northstar/";
+    var mobile = /iPad|iPhone|iPod|Android/.test(navigator.userAgent);
+    if (mobile)
+        dir += "xs/";
     var entryBlocks = [
         new entry_1.EntryText("I.", []),
         new entry_1.Picture({ title: "", picture: dir + "1" }),
