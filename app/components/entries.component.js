@@ -18,6 +18,8 @@ var EntriesComponent = (function () {
     }
     EntriesComponent.prototype.ngOnInit = function () {
         var _this = this;
+        var v = document.getElementById("bannerVideo");
+        v.volume = 0.0;
         this.entriesService.getEntries()
             .then(function (entries) { return _this.entries = entries; });
         // .then(hi => console.log(this.entries))

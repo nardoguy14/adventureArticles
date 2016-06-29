@@ -17,6 +17,8 @@ export class EntriesComponent implements OnInit {
     constructor(private entriesService: EntriesService,
                 private router: Router) { }
     ngOnInit() {
+        var v = document.getElementById("bannerVideo") as HTMLVideoElement
+        v.volume = 0.0
         this.entriesService.getEntries()
             .then(entries => this.entries = entries)
             // .then(hi => console.log(this.entries))
