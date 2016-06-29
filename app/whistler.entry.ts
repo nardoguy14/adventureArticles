@@ -147,13 +147,6 @@ export module WhistlerEntry {
         new Picture({title: "", picture: dir + "95"}),
         new EntryVideo(dir + "whistler")
 
-
-
-
-
-
-
-
     ]
 
     let entryHeader: EntryHeader = new EntryHeader(

@@ -12,17 +12,20 @@ var core_1 = require('@angular/core');
 var mammoth_entry_1 = require('../mammoth.entry');
 var washington_entry_1 = require('../washington.entry');
 var whistler_entry_1 = require('../whistler.entry');
+var tahoe_northstart_entry_1 = require('../tahoe_northstart.entry');
 var EntriesService = (function () {
     function EntriesService() {
         this.entries = [
             { id: 11, name: 'mammoth', title: 'Eastern Sierras.', picture: './mammothSet/7K2A6178' },
             { id: 12, name: 'washington', title: 'Washington', picture: './washingtonSet/19' },
-            { id: 13, name: 'whistler', title: 'Whistlerland', picture: './whistler/66' }
+            { id: 13, name: 'whistler', title: 'Whistlerland', picture: './whistler/66' },
+            { id: 14, name: 'northstar', title: 'NorthStar', picture: './northstar/15' }
         ];
         this.idToArticle = [
             { id: 11, article: mammoth_entry_1.MammothEntry.getEntry() },
             { id: 12, article: washington_entry_1.WashingtonEntry.getEntry() },
-            { id: 13, article: whistler_entry_1.WhistlerEntry.getEntry() }
+            { id: 13, article: whistler_entry_1.WhistlerEntry.getEntry() },
+            { id: 14, article: tahoe_northstart_entry_1.TahoeNorthStarEntry.getEntry() }
         ];
     }
     EntriesService.prototype.getEntries = function () {
